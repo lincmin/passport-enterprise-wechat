@@ -1,0 +1,27 @@
+{
+  "name": "passport-enterprise-wechat",
+  "version": "1.0.2",
+  "homepage": "https://github.com/lincmin/passport-enterprise-wechat",
+  "keywords": [
+    "passport",
+    "wechat",
+    "weixin",
+    "work",
+    "enterprise",
+    "authenticate",
+    "OAuth2.0"
+  ],
+  "description": "Passport Strategy for Enterprise Wechat Account/企业微信网页授权登录",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "passport": "^0.4.0",
+    "passport-strategy": "1.x.x",
+    "request": "^2.58.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lincmin",
+  "license": "MIT"
+}
